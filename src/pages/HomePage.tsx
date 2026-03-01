@@ -54,7 +54,7 @@ export function HomePage() {
             IBM Agenda Técnica <span className="font-semibold">2026</span>
           </h1>
           <p className="text-xl text-gray-300 max-w-2xl">
-            Potencia tu conocimiento y llévalo al siguiente nivel con este catálogo de workshops del equipo técnico de IBM España. 
+            Potencia tu conocimiento y llévalo al siguiente nivel con este catálogo de workshops del equipo técnico de IBM. Planifícatte ya! 
           </p>
         </div>
       </div>
