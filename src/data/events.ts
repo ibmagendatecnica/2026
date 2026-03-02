@@ -88,7 +88,30 @@ jose.miguel.indave@ibm.com;Automation;Customers;20-40;Octubre;Madrid;España;0.5
 "alvaro.cg@ibm.com, fernando.diaz@es.ibm.com";Storage;Customers;20-40;Octubre;Madrid;España;2.5 days;Workshop IBM Flash System;;;;;;
 jose.miguel.indave@ibm.com;Automation;Customers;20-40;Septiembre;Lisboa;Portugal;0.5 day;Portugal, IBM Integration Key Enabler for Innovation;;;;;;
 jose.miguel.indave@ibm.com;Automation;Customers, Business Partners;20-40;Septiembre;Madrid;España;0.5 day;iPaaS (APIs & Connect) hands-on workshops, Septiembre​;;;;;;
-"marco.langa.penalba@ibm.com, sonia_marquez@es.ibm.com, antonio.palacios@ibm.com";Data and AI;Customers;10-20;TBD;Madrid;España;0.5 day;Get the most of Guardium Assessment;;;;;;`;
+"marco.langa.penalba@ibm.com, sonia_marquez@es.ibm.com, antonio.palacios@ibm.com";Data and AI;Customers;10-20;TBD;Madrid;España;0.5 day;Get the most of Guardium Assessment;;;;;;
+francisco.ramos.do.o@ibm.com;Cloud;Customers, Business Partners;20-40;Septiembre;Lisboa;Portugal;1 day;Meet Bob! (with Data&AI + Automation teams);;2.000;Yes;Q2;;
+francisco.ramos.do.o@ibm.com;Cloud;Customers, Business Partners;20-40;Diciembre;Lisboa;Portugal;1 day;Meet Bob! (with Data&AI + Automation teams);;2.000;Yes;Q2;;
+alejandro.delgado@es.ibm.com;Cloud;Customers, Business Partners;20-40;Mayo;Madrid;España;0.5 day;Landing Zone para IA en IBM Cloud;;;;;;
+Albert_Valls@es.ibm.com;Power;Customers, Business Partners;10-20;Mayo;Madrid;España;0.5 day;Cybervault on Power ;;;;;;
+Sara.andres1@ibm.com;Power;Customers, Business Partners;20-40;Septiembre;Madrid;España;1 day;Hybrid Infrastructure, new consumption models: PowerVS;;;;;;
+alejandro.delgado@es.ibm.com;Power;Customers, Business Partners;20-40;Julio;Madrid;España;0.5 day;Preparación certificación PowerVS L2/L3;;;;;;
+"castillo.armando@ibm.com,luisperez@es.ibm.com";Cloud;Customers, Business Partners;20-40;Junio;Madrid;España;0.5 day;Despliegue de Landing Zone en IBM Cloud;;;;;;
+alejandro.delgado@es.ibm.com;Cloud;Customers, Business Partners;20-40;Septiembre;Madrid;España;0.5 day;Landing Zone para IA en IBM Cloud;;;;;;
+"javier.de.la.puente@ibm.com, diego.bernabe@ibm.com";Cloud;Customers, Business Partners;20-40;Mayo;Madrid;España;0.5 day;Onboarding a IBM Cloud;;;;;;
+"lucia.deancos.villa@ibm.com, Jaime.R.Lara@ibm.com";Cloud;Customers, Business Partners;20-40;Mayo;Madrid;España;0.5 day;Serverless Fleets;;;;;;
+alejandro.delgado@es.ibm.com;Power;Customers, Business Partners;20-40;Noviembre;Madrid;España;0.5 day;Preparación certificación PowerVS L2 / L3;;;;;;
+"javier.de.la.puente@ibm.com, castillo.armando@ibm.com";Cloud;Customers, Business Partners;20-40;Septiembre;Madrid;España;0.5 day;Maximo Application Suite sobre IBM Cloud;;;;;;
+castillo.armando@ibm.com;Cloud;Customers, Business Partners;20-40;Octubre;Madrid;España;0.5 day;Virtualización en IBM Cloud on VPC (VSI/Baremetal);;;;;;
+luisperez@es.ibm.com;Cloud;Customers, Business Partners;20-40;Octubre;Madrid;España;0.5 day;Virtualización en IBM Cloud on ROVE;;;;;;
+"lucia.deancos.villa@ibm.com, Jaime.R.Lara@ibm.com";Cloud;Customers, Business Partners;20-40;Ocutbre;Madrid;España;0.5 day;Serverless Fleets;;;;;;
+luisperez@es.ibm.com;Cloud;Customers, Business Partners;20-40;Mayo;Madrid;España;0.5 day;Virtualización en IBM Cloud on ROVE;;;;;;
+"javier.de.la.puente@ibm.com, diego.bernabe@ibm.com";Cloud;Customers, Business Partners;20-40;Junio;Madrid;España;0.5 day;Landing Zone para PowerVS en IBM Cloud;;;;;;
+Albert_Valls@es.ibm.com;Power;Customers, Business Partners;10-20;Septiembre;Madrid;España;0.5 day;Cybervault on Power ;;;;;;
+luisperez@es.ibm.com, alejandro.delgado@es.ibm.com;Cloud;Customers, Business Partners;20-40;Noviembre;Madrid;España;0.5 day;Nube Soberana con IBM Cloud y Security & Compliance Center Workload Protect;;;;;;
+luisperez@es.ibm.com, alejandro.delgado@es.ibm.com;Cloud;Customers, Business Partners;20-40;Julio;Madrid;España;0.5 day;Nube Soberana con IBM Cloud y Security & Compliance Center Workload Protect;;;;;;
+castillo.armando@ibm.com;Cloud;Customers, Business Partners;20-40;Mayo;Madrid;España;0.5 day;Virtualización en IBM Cloud on VPC (VSI/Baremetal);;;;;;
+"javier.de.la.puente@ibm.com, diego.bernabe@ibm.com";Cloud;Customers, Business Partners;20-40;Octubre;Madrid;España;0.5 day;Onboarding a IBM Cloud;;;;;;
+"javier.de.la.puente@ibm.com, diego.bernabe@ibm.com";Cloud;Customers, Business Partners;20-40;Noviembre;Madrid;España;0.5 day;Landing Zone para PowerVS en IBM Cloud;;;;;;`;
 
 const months: { [key: string]: number } = {
   enero: 0,
