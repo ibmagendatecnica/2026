@@ -103,7 +103,6 @@ alejandro.delgado@es.ibm.com;Power;Customers, Business Partners;20-40;Noviembre;
 "javier.de.la.puente@ibm.com, castillo.armando@ibm.com";Cloud;Customers, Business Partners;20-40;Septiembre;Madrid;España;0.5 day;Maximo Application Suite sobre IBM Cloud;;;;;;
 castillo.armando@ibm.com;Cloud;Customers, Business Partners;20-40;Octubre;Madrid;España;0.5 day;Virtualización en IBM Cloud on VPC (VSI/Baremetal);;;;;;
 luisperez@es.ibm.com;Cloud;Customers, Business Partners;20-40;Octubre;Madrid;España;0.5 day;Virtualización en IBM Cloud on ROVE;;;;;;
-"lucia.deancos.villa@ibm.com, Jaime.R.Lara@ibm.com";Cloud;Customers, Business Partners;20-40;Ocutbre;Madrid;España;0.5 day;Serverless Fleets;;;;;;
 "lucia.deancos.villa@ibm.com, Jaime.R.Lara@ibm.com";Cloud;Customers, Business Partners;20-40;Octubre;Madrid;España;0.5 day;Serverless Fleets;;;;;;
 luisperez@es.ibm.com;Cloud;Customers, Business Partners;20-40;Mayo;Madrid;España;0.5 day;Virtualización en IBM Cloud on ROVE;;;;;;
 "javier.de.la.puente@ibm.com, diego.bernabe@ibm.com";Cloud;Customers, Business Partners;20-40;Junio;Madrid;España;0.5 day;Landing Zone para PowerVS en IBM Cloud;;;;;;
