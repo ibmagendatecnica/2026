@@ -16,7 +16,7 @@ export interface Event {
 const rawData = `Event Details Contact;Focus Area;Audiencia;How many attendees do you expect?;Approximate Start Date;Ciudad;Pais;Duracion;Nombre del Evento;URL Registro;;;;;
 gemma_munoz@es.ibm.com;Z;Customers;20-40;12 de febrero de 2026;Madrid;España;1 day;IBM Data&AI on z/OS, an IBM TechXchange Workshop;https://www.ibm.com/events/reg/flow/ibm/YXCNXJMB/landing/page/landing;;;;;
 "julian.garcia@es.ibm.com, david.nunez@ibm.com";Automation;Customers, Business Partners;20-40;11 de marzo de 2026;Madrid;España;0.5 day;AI for Networking, an IBM TechXchange Workshop;https://www.ibm.com/events/reg/flow/ibm/K65HDZMB/landing/page/landing;;;;;
-"enrique.parra@es.ibm.com, david.ezagury@ibm.com";Automation;Customers, Business Partners;10-20;26 de marzo de 2026;Madrid;España;1 day;Observabilidad end2end - Instana, SevOne, Concert;;;;;;
+"enrique.parra@es.ibm.com, david.ezagury@ibm.com";Automation;Customers, Business Partners;10-20;26 de marzo de 2026;Madrid;España;1 day;Observabilidad end2end - Instana, SevOne, Concert;https://www.ibm.com/events/reg/flow/ibm/1LOKQ5MB/landing/page/landing;;;;;
 Richard.podlas@ibm.com;Data and AI;Customers, Business Partners;20-40;30 de marzo de 2026;Tel Aviv;Israel;0.5 day;Quantum Safe For the Financial Sector;;;;;;
 gemma_munoz@es.ibm.com;Z;Customers;10-20;8 de abril de 2026;Madrid;España;1 day;IBM Data&AI on z/OS, an IBM TechXchange Workshop in Barcelona;;;;;;
 ivancantero@es.ibm.com;Data and AI;Customers, Business Partners;20-40;8 de abril de 2026;Madrid;España;0.5 day;PQC / Quantum Safe: Introducción, retos y soluciones;;;;;;
