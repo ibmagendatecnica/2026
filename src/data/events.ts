@@ -26,7 +26,7 @@ Matan.Dadon@ibm.com;Automation;Customers;20-40;16 de abril de 2026;Tel Aviv;Isra
 luis.navarro@ibm.com;Data and AI;Customers;20-44;20 de abril de 2026;Madrid;España;Less than 0.5 day;Evaluación y monitorización continua de sistemas de IA con watsonx.governance;;;;;;
 "javier.garcia-samaniego@ibm.com; Luis.Gomez@ibm.com";Data and AI;Customers;10-20;21 de abril de 2026;Madrid;España;0.5 day;Data Mesh Approach, creation of governed data products with watsonx.data intelligence;;;;;;
 "marco.langa.penalba@ibm.com, sonia_marquez@es.ibm.com, antonio.palacios@ibm.com";Data and AI;Customers;20-40;22 de abril de 2026;Madrid;España;1 day;Data Security for Z;;;;;;
-arturo.guerrero@es.ibm.com;Cloud;Customers, Business Partners;75-125;22 de abril de 2026;Madrid;España;1 day;VMware attack (title to be defined);;;;;;
+arturo.guerrero@es.ibm.com;Cloud;Customers, Business Partners;75-125;22 de abril de 2026;Madrid;España;1 day;Estrategias de Virtualización en IBM Cloud;;;;;;
 Matan.Dadon@ibm.com;Automation;Customers;20-40;23 de abril de 2026;Tel Aviv;Israel;0.5 day;CISOs raund table (Verify, Vault, Data Security);;;;;;
 sandralazaroperez@ibm.com;Z;Customers;20-40;23 de abril de 2026;Madrid;España;1 day;Mainframe applications modernization with DevOps and AI tools ;;;;;;
 miguelalcala@ibm.com;Data and AI;Customers, Business Partners;20-40;27 de abril de 2026;Madrid;España;0.5 day;Better data, smarter AI. The only hybrid, open data lakehouse for enterprise AI and analytics;;;;;;
