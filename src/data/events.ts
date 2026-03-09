@@ -18,7 +18,7 @@ gemma_munoz@es.ibm.com;Z;Customers;20-40;12 de febrero de 2026;Madrid;España;1 
 "julian.garcia@es.ibm.com, david.nunez@ibm.com";Automation;Customers, Business Partners;20-40;11 de marzo de 2026;Madrid;España;0.5 day;AI for Networking, an IBM TechXchange Workshop;https://www.ibm.com/events/reg/flow/ibm/K65HDZMB/landing/page/landing;;;;;
 "enrique.parra@es.ibm.com, david.ezagury@ibm.com";Automation;Customers, Business Partners;10-20;26 de marzo de 2026;Madrid;España;1 day;Observabilidad end2end - Instana, SevOne, Concert;https://www.ibm.com/events/reg/flow/ibm/1LOKQ5MB/landing/page/landing;;;;;
 Richard.podlas@ibm.com;Data and AI;Customers, Business Partners;20-40;30 de marzo de 2026;Tel Aviv;Israel;0.5 day;Quantum Safe For the Financial Sector;;;;;;
-gemma_munoz@es.ibm.com;Z;Customers;10-20;8 de abril de 2026;Madrid;España;1 day;IBM Data&AI on z/OS, an IBM TechXchange Workshop in Barcelona;;;;;;
+gemma_munoz@es.ibm.com;Z;Customers;10-20;8 de abril de 2026;Barcelona;España;1 day;IBM Data&AI on z/OS;;;;;;
 ivancantero@es.ibm.com;Data and AI;Customers, Business Partners;20-40;8 de abril de 2026;Madrid;España;0.5 day;PQC / Quantum Safe: Introducción, retos y soluciones;;;;;;
 Richard.podlas@ibm.com;Data and AI;Customers;20-40;13 de abril de 2026;Tel Aviv;Israel;1 day;DataStax - Scale for the sky;;;;;;
 pascal_viguie@es.ibm.com;Data and AI;Customers;20-43;15 de abril de 2026;Madrid;España;0.5 day;Workspace Reports and Analysis Deep Dive;;;;;;
@@ -31,7 +31,7 @@ Matan.Dadon@ibm.com;Automation;Customers;20-40;23 de abril de 2026;Tel Aviv;Isra
 sandralazaroperez@ibm.com;Z;Customers;20-40;23 de abril de 2026;Madrid;España;1 day;Mainframe applications modernization with DevOps and AI tools ;;;;;;
 miguelalcala@ibm.com;Data and AI;Customers, Business Partners;20-40;27 de abril de 2026;Madrid;España;0.5 day;Better data, smarter AI. The only hybrid, open data lakehouse for enterprise AI and analytics;;;;;;
 jose.miguel.indave@ibm.com;Automation;Customers, Business Partners;20-40;28 de abril de 2026;Madrid;España;0.5 day;B2B & MFT workshops;;;;;;
-"julian.garcia@es.ibm.com, david.nunez@ibm.com";Automation;Customers;20-40;29 de abril de 2026;Madrid;España;0.5 day;Trusteer Connect Day, an IBM TechXchange Workshop;;;;;;
+"julian.garcia@es.ibm.com, david.nunez@ibm.com";Automation;Customers;20-40;29 de abril de 2026;Madrid;España;0.5 day;Trusteer Connect Day;;;;;;
 Matan.Dadon@ibm.com;Automation;Customers, Business Partners;40-75;30 de abril de 2026;Tel Aviv;Israel;0.5 day;DevOps Bootcamp - Including Hand On (Terraform, Vault, Instana);;;;;;
 George.diasakos@ibm.com;Power;Business Partners;20-40;5 de mayo de 2026;Atenas;Grecia;1 day;PowerVS enablement;;;;;;
 "dri.costa@ibm.com,maria.pais.chaves@ibm.com,susanadsfranco@ibm.com";Automation;Customers, Business Partners;10-20;5 de mayo de 2026;Madrid;España;1 day;Gestión financiera del IT - Apptio;;;;;;
