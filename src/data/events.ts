@@ -19,7 +19,7 @@ gemma_munoz@es.ibm.com;Z;Customers;20-40;12 de febrero de 2026;Madrid;España;1 
 "enrique.parra@es.ibm.com, david.ezagury@ibm.com";Automation;Customers, Business Partners;10-20;26 de marzo de 2026;Madrid;España;1 day;Observabilidad end2end - Instana, SevOne, Concert;https://www.ibm.com/events/reg/flow/ibm/1LOKQ5MB/landing/page/landing;;;;;
 Richard.podlas@ibm.com;Data and AI;Customers, Business Partners;20-40;30 de marzo de 2026;Tel Aviv;Israel;0.5 day;Quantum Safe For the Financial Sector;;;;;;
 gemma_munoz@es.ibm.com;Z;Customers;10-20;8 de abril de 2026;Barcelona;España;1 day;IBM Data&AI on z/OS;https://www.ibm.com/events/reg/flow/ibm/OD1VR1MB/landing/page/landing;;;;;
-ivancantero@es.ibm.com;Data and AI;Customers, Business Partners;20-40;8 de abril de 2026;Madrid;España;0.5 day;PQC / Quantum Safe: Introducción, retos y soluciones;https://www.ibm.com/events/reg/flow/ibm/7NAXRXMB/landing/page/landing;;;;;
+ivancantero@es.ibm.com;Data and AI;Customers, Business Partners;20-40;22 de mayo de 2026;Madrid;España;0.5 day;PQC / Quantum Safe: Introducción, retos y soluciones;https://www.ibm.com/events/reg/flow/ibm/7NAXRXMB/landing/page/landing;;;;;
 Richard.podlas@ibm.com;Data and AI;Customers;20-40;13 de abril de 2026;Tel Aviv;Israel;1 day;DataStax - Scale for the sky;;;;;;
 pascal_viguie@es.ibm.com;Data and AI;Customers;20-43;15 de abril de 2026;Madrid;España;0.5 day;Workspace Reports and Analysis Deep Dive;;;;;;
 Matan.Dadon@ibm.com;Automation;Customers;20-40;16 de abril de 2026;Tel Aviv;Israel;0.5 day;Integration Workshop (webMethods);;;;;;
