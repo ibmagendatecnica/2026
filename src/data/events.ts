@@ -29,7 +29,7 @@ Matan.Dadon@ibm.com;Automation;Customers, Business Partners;40-75;30 de abril de
 George.diasakos@ibm.com;Power;Business Partners;20-40;7 de mayo de 2026;Atenas;Grecia;1 day;PowerVS enablement;https://www.ibm.com/events/reg/flow/ibm/8CA6Q9MB/landing/page/landing;;;;;
 "dri.costa@ibm.com,maria.pais.chaves@ibm.com,susanadsfranco@ibm.com";Automation;Customers, Business Partners;10-20;19 de mayo de 2026;Madrid;España;1 day;Cloud Cost Management with IBM Cloudability, an IBM TechXchange Workshop;https://www.ibm.com/events/reg/flow/ibm/FWJN3IMB/landing/page/landing;;;;;
 "franclim.bento@pt.ibm.com, Luis.Bazo@ibm.com";Automation;Customers, Business Partners;10-20;20 de mayo de 2026;Madrid;España;1 day;AI Powered DevOps: Meet IBM Bob, an IBM TechXchange Workshop;https://www.ibm.com/events/reg/flow/ibm/B8MLYMMB/landing/page/landing;;;;;
-"miguelalcala@ibm.com, Javier.Frances@ibm.com";Data and AI;Customers, Business Partners;20-40;13 de mayo de 2026;Madrid;España;0.5 day;IBM Bob in Action, an IBM TechXchange Workshop;https://www.ibm.com/events/reg/flow/ibm/RD4XPMMB/landing/page/landing;;;;;
+"miguelalcala@ibm.com, Javier.Frances@ibm.com";Data and AI;Customers, Business Partners;20-40;22 de mayo de 2026;Madrid;España;0.5 day;IBM Bob in Action, an IBM TechXchange Workshop;https://www.ibm.com/events/reg/flow/ibm/RD4XPMMB/landing/page/landing;;;;;
 benito.martin@ibm.com;Data and AI;Customers;20-43;11 de junio de 2026;Madrid;España;0.5 day;Business Automation con IA: La Nueva Generación de Procesos, an IBM TechXchange Workshop;https://www.ibm.com/events/reg/flow/ibm/6MYBMVMB/landing/page/landing;;;;;
 "robert.kende@es.ibm.com, julio.cesar.casas@ibm.com";Data and AI;Customers, Business Partners;10-20;2 de junio de 2026;Madrid;España;0.5 day;Master Data for the AI Agent Era: From Fragmented Sources to Seamless AI Access;;;;;;
 "julian.garcia@es.ibm.com, david.nunez@ibm.com";Automation;Customers;20-40;3 de junio de 2026;Madrid;España;0.5 day;TechXChange: Securing Identities, the new frontier;;;;;;
@@ -54,8 +54,8 @@ yuval_feller@il.ibm.com;Data and AI;Customers;20-40;Abril;Tel Aviv;Israel;0.5 da
 DEVOLDWI@gr.ibm.com;Z;Customers;20-40;Diciembre;Atenas;Grecia;1 day;Netview, System Automation and Workload Scheduler update;;;;;;
 cristinabm@es.ibm.com;Z;Customers;20-40;Julio;Madrid;España;1 day;Do more at the core with IBM z17 & LinuxONE in Lisbon;;;;;;
 cristinabm@es.ibm.com;Z;Customers;20-40;Julio;Madrid;España;1 day;Do more at the core with IBM z17 & LinuxONE in Athens;;;;;;
-david.ezagury@ibm.com;Automation;Customers, Business Partners;10-20;Junio;Madrid;España;0.5 day;Opentelemetry with Instana;;;;;;
-Francisco.Mesa@ibm.com;Z;Customers;20-40;Junio;Madrid;España;1 day;Protecting your most valueable asset: zSecurity;;;;;;
+david.ezagury@ibm.com;Automation;Customers, Business Partners;10-20;Julio;Madrid;España;0.5 day;Opentelemetry with Instana;;;;;;
+Francisco.Mesa@ibm.com;Z;Customers;20-40;Julio;Madrid;España;1 day;Protecting your most valueable asset: zSecurity;;;;;;
 "Georgia.Karoutsou1@ibm.com; menicos.mavrommatis1@ibm.com";Automation;Customers, Business Partners;20-40;Marzo;Atenas;Grecia;1 day;Hashicorp - The automation story;;;;;;
 Andrea.Nunez@ibm.com;Z;Customers;20-40;Marzo;Madrid;España;1 day;Meet LinuxONE;;;;;;
 "franclim.bento@pt.ibm.com, Luis.Bazo@ibm.com";Automation;Customers, Business Partners;10-20;Marzo;Madrid;España;1 day;Integración Híbrida - IWHI;;;;;;
@@ -79,7 +79,7 @@ alejandro.delgado@es.ibm.com;Cloud;Customers, Business Partners;20-40;Julio;Madr
 Albert_Valls@es.ibm.com;Power;Customers, Business Partners;10-20;Julio;Madrid;España;0.5 day;Cybervault on Power ;;;;;;
 Sara.andres1@ibm.com;Power;Customers, Business Partners;20-40;Septiembre;Madrid;España;1 day;Hybrid Infrastructure, new consumption models: PowerVS;;;;;;
 alejandro.delgado@es.ibm.com;Power;Customers, Business Partners;20-40;Julio;Madrid;España;0.5 day;Preparación certificación PowerVS L2/L3;;;;;;
-"castillo.armando@ibm.com,luisperez@es.ibm.com";Cloud;Customers, Business Partners;20-40;Junio;Madrid;España;0.5 day;Despliegue de Landing Zone en IBM Cloud;;;;;;
+"castillo.armando@ibm.com,luisperez@es.ibm.com";Cloud;Customers, Business Partners;20-40;Julio;Madrid;España;0.5 day;Despliegue de Landing Zone en IBM Cloud;;;;;;
 alejandro.delgado@es.ibm.com;Cloud;Customers, Business Partners;20-40;Septiembre;Madrid;España;0.5 day;Landing Zone para IA en IBM Cloud;;;;;;
 "javier.de.la.puente@ibm.com, diego.bernabe@ibm.com";Cloud;Customers, Business Partners;20-40;Septiembre;Madrid;España;0.5 day;Onboarding a IBM Cloud;;;;;;
 "lucia.deancos.villa@ibm.com, Jaime.R.Lara@ibm.com";Cloud;Customers, Business Partners;20-40;Septiembre;Madrid;España;0.5 day;Serverless Fleets;;;;;;
@@ -89,7 +89,7 @@ castillo.armando@ibm.com;Cloud;Customers, Business Partners;20-40;Octubre;Madrid
 luisperez@es.ibm.com;Cloud;Customers, Business Partners;20-40;Octubre;Madrid;España;0.5 day;Virtualización en IBM Cloud on ROVE;;;;;;
 "lucia.deancos.villa@ibm.com, Jaime.R.Lara@ibm.com";Cloud;Customers, Business Partners;20-40;Octubre;Madrid;España;0.5 day;Serverless Fleets;;;;;;
 luisperez@es.ibm.com;Cloud;Customers, Business Partners;20-40;Septiembre;Madrid;España;0.5 day;Virtualización en IBM Cloud on ROVE;;;;;;
-"javier.de.la.puente@ibm.com, diego.bernabe@ibm.com";Cloud;Customers, Business Partners;20-40;Junio;Madrid;España;0.5 day;Landing Zone para PowerVS en IBM Cloud;;;;;;
+"javier.de.la.puente@ibm.com, diego.bernabe@ibm.com";Cloud;Customers, Business Partners;20-40;Julio;Madrid;España;0.5 day;Landing Zone para PowerVS en IBM Cloud;;;;;;
 Albert_Valls@es.ibm.com;Power;Customers, Business Partners;10-20;Septiembre;Madrid;España;0.5 day;Cybervault on Power ;;;;;;
 luisperez@es.ibm.com, alejandro.delgado@es.ibm.com;Cloud;Customers, Business Partners;20-40;Noviembre;Madrid;España;0.5 day;Nube Soberana con IBM Cloud y Security & Compliance Center Workload Protect;;;;;;
 luisperez@es.ibm.com, alejandro.delgado@es.ibm.com;Cloud;Customers, Business Partners;20-40;Julio;Madrid;España;0.5 day;Nube Soberana con IBM Cloud y Security & Compliance Center Workload Protect;;;;;;
