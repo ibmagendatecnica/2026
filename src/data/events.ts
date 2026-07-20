@@ -47,9 +47,7 @@ Miriam.Trenado.Barro@ibm.com;Automation;Customers, Business Partners;20-40;10 de
 "julian.garcia@es.ibm.com, david.nunez@ibm.com";Automation;Customers;20-40;3 de junio de 2026;Madrid;España;0.5 day;TechXChange: Securing Identities, the new frontier;;;;;;
 giovanni.rafael.vuolo@ibm.com;Automation;Customers, Business Partners;10-20;24 de junio de 2026;Madrid;España;1 day;Zerotouch IT Operations - Terraform, Ansible, Turbonomic, Instana, Concert;;;;;;
 benito.martin@ibm.com;Data and AI;Customers;20-41;5 de julio de 2026;Madrid;España;0.5 day;Create Predictive Models Visually with SPSS;;;;;;
-luis.navarro@ibm.com;Data and AI;Customers;20-43;10 de agosto de 2026;Madrid;España;0.5 day;De Asistentes a Agentes: La Revolución de la Productividad con IA;;;;;;
 "alvaro.cg@ibm.com, fernando.diaz@es.ibm.com";Storage;Customers;20-40;3 de septiembre de 2026;Madrid;España;2.5 days;Workshop IBM Flash System;;;;;;
-eduard.sule@ibm.com;Data and AI;Customers;20-40;4 de septiembre de 2026;Madrid;España;Less than 0.5 day;IA Segura y Responsable: Cumple el EU AI Act y Minimiza Riesgos;;;;;;
 stoupage@gr.ibm.com;Power;Customers, Business Partners;30-50;15 de septiembre de 2026;Atenas;Grecia;1 day;Power11 BP - Customer enablement - Final name to de decided;;;;;;
 benito.martin@ibm.com;Data and AI;Customers;20-42;16 de septiembre de 2026;Madrid;España;1 day;Del Papel a la Realidad: Automatización End-to-End;;;;;;
 "arancha_ocana@es.ibm.com, irene.marquet@ibm.com";Data and AI;Customers, Business Partners;20-40;23 de septiembre de 2026;Madrid;España;1 day;Unified batch and real-time data integration and observability across structured, semi‑structured, and unstructured data;;;;;;
